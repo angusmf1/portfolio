@@ -2,9 +2,9 @@
 This portfolio contains data visualizations from Telling Stories With Data
 
 # About me
-👋 Hello, I'm Angus Ferrell
+## 👋 Hello, I'm Angus Ferrell
 
-📚 Aspiring Data Scientist | 🤖 Machine Learning Enthusiast | 📊 Data Explorer
+## 📚 Aspiring Data Scientist | 🤖 Machine Learning Enthusiast | 📊 Data Explorer
 
 🌟 About Me:
 
@@ -16,23 +16,22 @@ This portfolio contains data visualizations from Telling Stories With Data
 
 💡 Lifelong Learner: In this rapidly evolving field, I believe in continuous learning. I'm constantly enhancing my skills and staying up-to-date with the latest advancements in data science.
 
-🚀✨ Join me on my data-driven journey as I explore, create, and innovate using unique data visualizations! 🚀✨
+🚀✨ Join me on my data-driven journey as I explore, create, and innovate using unique data visualizations!
 
 Connect with me on LinkedIn: [[LinkedIn Profile](https://www.linkedin.com/in/angusferrell)](https://www.linkedin.com/in/angusmferrell/)
 
 
-
 # What I hope to learn
-All the things - obviously. Maybe I want to make a list of all the things.  If so, I can do so in Markdown like this: 
 
-1. List item #1
-2. List item #2
-3. List item #3
+1. Learn **effective and powerful** tools to leverage data visualizations to illustrate results and conclusions from data 
+2. Create **clear and convincing** data visualizations using Tableau
+3. Craft this portfolio into a repository of data visualization masterpieces
+4. Upon graduation, I intend to work as a data scientist for the US Army's Artificial Intelligence Integration Center.
 
 # Portfolio
 
 # Examples
-You can keep this section for stuff from in-class demos or your other work, or remove it. 
+**Insert in class demos** 
 
 ## Assignment: [Visualizing overnment Debt](visualizing-government-debt)
 For this assignment, make sure you set up and link to a new page.  This page is linking to a new Markdown document called `visualizing-government-debt.md`.  For links to Markdown files in your repository, you can just include the name of the page without the `.md` extension. 
@@ -46,26 +45,10 @@ Here it might be helpful to include a high-level description of your final proje
 [Part II](final-project-part-two)
 Part III(final-project-part-three)
 
----
-## Other stuff you can do (you can remove this section - it's just for your reference.)
 
-### Changing text
 
-You can change text, like this: 
 
-**Here's some bold** text.  Here's some *italic* text. Here's some ~~strikethrough~~ text. 
 
-### Creating tables
-
-You can build tables like this: 
-
-| Name         | Type of pet | Favority activity 1 | FA 2   | FA 3            | FA 4                                |
-|--------------|-------------|---------------------|--------|-----------------|-------------------------------------|
-| Eli          | cat         | Sleeping            | Eating | Being pet       | Plotting to overthow dog empire     |
-| Howard       | dog         | You                 | You    | You             | Eating                              |
-| Frankenstein | fish        | Swimming            | Eating | Blowing bubbles | Forgetting                          |
-
-An easy-to-use template generator tool [can be found here](https://www.tablesgenerator.com/markdown_tables)
 
 You can use different headings, like this: 
 

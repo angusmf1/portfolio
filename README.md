@@ -2,7 +2,25 @@
 This portfolio contains data visualizations from Telling Stories With Data
 
 # About me
-Hi!  I really like data.  And I like visualizations.  So I guess you can say that I like data visualizations!
+👋 Hello, I'm Angus Ferrell
+
+📚 Aspiring Data Scientist | 🤖 Machine Learning Enthusiast | 📊 Data Explorer
+
+🌟 About Me:
+
+📊 Data Science Student: Currently pursuing a graduate degree from Carnegie Mellon's MISM-BIDA program, I'm passionate about the transformative power of data and its ability to drive informed decision-making.
+
+🤖 Machine Learning Enthusiast: I thrive on exploring the exciting world of machine learning, from building predictive models to diving into deep learning algorithms.
+
+🔍 Data Explorer: I love the thrill of uncovering insights from data. Whether it's through data visualization or statistical analysis, I'm always on the hunt for meaningful patterns.
+
+💡 Lifelong Learner: In this rapidly evolving field, I believe in continuous learning. I'm constantly enhancing my skills and staying up-to-date with the latest advancements in data science.
+
+🚀✨ Join me on my data-driven journey as I explore, create, and innovate using unique data visualizations! 🚀✨
+
+Connect with me on LinkedIn: [[LinkedIn Profile](https://www.linkedin.com/in/angusferrell)](https://www.linkedin.com/in/angusmferrell/)
+
+
 
 # What I hope to learn
 All the things - obviously. Maybe I want to make a list of all the things.  If so, I can do so in Markdown like this: 

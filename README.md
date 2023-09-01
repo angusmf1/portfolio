@@ -56,6 +56,8 @@ Here's an example of how to add an image to my portfolio.
 ![Tangled Lines Sketch](Tangled Lines sketch.jpeg)
 
 ![funny dog picture](funny-dog-unsplash.jpg)
+
+![funny dog picture](tangled-lines-sketch.jpg)
 > Photo by <a href="https://unsplash.com/pt-br/@charlesdeluvio?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">charlesdeluvio</a> on <a href="https://unsplash.com/photos/K4mSJ7kc0As?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
   
 

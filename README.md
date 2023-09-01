@@ -30,7 +30,6 @@ Connect with me on LinkedIn: [[LinkedIn Profile](https://www.linkedin.com/in/ang
 
 # Portfolio
 
-# Examples
 ## In-class Examples
 
 ![Tangled Lines Sketch](tangled-lines-sketch.jpg)

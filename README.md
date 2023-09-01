@@ -35,7 +35,6 @@ Connect with me on LinkedIn: [[LinkedIn Profile](https://www.linkedin.com/in/ang
 
 ![Tangled Lines Sketch](tangled-lines-sketch.jpg)
 > Photo by <a href="Angus Ferrell"> Angus Ferrell</a>
-<img src="tangled-lines-sketch.jpg" width="200"/>
 
 ## Assignment: [Visualizing overnment Debt](visualizing-government-debt)
 For this assignment, make sure you set up and link to a new page.  This page is linking to a new Markdown document called `visualizing-government-debt.md`.  For links to Markdown files in your repository, you can just include the name of the page without the `.md` extension. 

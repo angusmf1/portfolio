@@ -32,7 +32,7 @@ Connect with me on LinkedIn: [[LinkedIn Profile](https://www.linkedin.com/in/ang
 
 ## In-class Examples
 
-### Tangled Lines
+### 1.Tangled Lines
 
 <img src="tangled-lines.png" width="400"/>
 <a> Photo by Angus Ferrell</a> 

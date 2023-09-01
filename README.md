@@ -34,8 +34,7 @@ Connect with me on LinkedIn: [[LinkedIn Profile](https://www.linkedin.com/in/ang
 ## In class demos** 
 
 ![Tangled Lines Sketch](tangled-lines-sketch.jpg)
-> Photo by <a href="Angus Ferrell">Unsplash</a>
-
+> Photo by <a href="Angus Ferrell"> Angus Ferrell</a>
 <img src="tangled-lines-sketch.jpg" width="200"/>
 
 ## Assignment: [Visualizing overnment Debt](visualizing-government-debt)

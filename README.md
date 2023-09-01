@@ -50,16 +50,10 @@ Part III(final-project-part-three)
 
 
 
-You can use different headings, like this: 
-
-# Here's a large title (H1)
-## Here's a subtitle (H2)
-### ...and so on (H3)
-You get the idea - just don't forget the space between the # and your title.  `#Title` won't work, but `# Title` will. 
-
-### Adding images
 
 Here's an example of how to add an image to my portfolio.  
+
+![Tangled Lines Sketch](Tangled Lines sketch.jpeg)
 
 ![funny dog picture](funny-dog-unsplash.jpg)
 > Photo by <a href="https://unsplash.com/pt-br/@charlesdeluvio?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">charlesdeluvio</a> on <a href="https://unsplash.com/photos/K4mSJ7kc0As?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>

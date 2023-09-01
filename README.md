@@ -32,9 +32,8 @@ Connect with me on LinkedIn: [[LinkedIn Profile](https://www.linkedin.com/in/ang
 
 ## In-class Examples
 
-
-
-<img src="tangled-lines.png" width="300"/>
+![Tangled Lines]
+<img src="tangled-lines.png" width="400"/>
 > Photo by Angus Ferrell</a>
 
 ## Assignment: [Visualizing overnment Debt](visualizing-government-debt)

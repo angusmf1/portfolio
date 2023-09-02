@@ -35,13 +35,17 @@ Connect with me on LinkedIn: [[LinkedIn Profile](https://www.linkedin.com/in/ang
 ### 1. Tangled Lines
 
 <img src="tangled-lines.png" width="400"/>
-Photo by Angus Ferrell</a> 
+
+
+> Photo by Angus Ferrell</a> 
 
 ## Assignment: [Visualizing Government Debt](visualizing-government-debt)
 For this assignment, make sure you set up and link to a new page.  This page is linking to a new Markdown document called `visualizing-government-debt.md`.  For links to Markdown files in your repository, you can just include the name of the page without the `.md` extension. 
 
 <img src="coming-soon.png" width="300"/>
-Photo by starline on <a href="https://www.freepik.com/free-vector/neon-style-coming-soon-glowing-background-design_8562880.htm#query=coming%20soon&position=3&from_view=keyword&track=ais">freepik</a>
+
+
+> Photo by starline on <a href="https://www.freepik.com/free-vector/neon-style-coming-soon-glowing-background-design_8562880.htm#query=coming%20soon&position=3&from_view=keyword&track=ais">freepik</a>
 
 
 ## Assignment 3&4: [Critique by Design](critique-by-design)

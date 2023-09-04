@@ -14,7 +14,7 @@ This portfolio contains data visualizations from Telling Stories With Data
 
 🔍 Data Explorer: I enjoy the thrill of uncovering new insights from data. Whether it's through data visualization or statistical analysis, I'm always searching for meaningful patterns.
 
-💡 Lifelong Learner: Continous learning is a state of mind, not just simply a task. I'm constantly enhancing my skills and staying up-to-date with the latest advancements in data science.
+💡 Lifelong Learner: Continuous learning is a state of mind, not just simply a task. I'm constantly enhancing my skills and staying up-to-date with the latest advancements in data science.
 
 🚀✨ Join me on my data-driven journey as I explore, create, and innovate using unique data visualizations!
 

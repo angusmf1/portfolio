@@ -10,11 +10,11 @@ This portfolio contains data visualizations from Telling Stories With Data
 
 📊 Data Science Student: Currently pursuing a graduate degree from Carnegie Mellon's MISM-BIDA program, I'm passionate about the transformative power of data and its ability to drive informed decision-making.
 
-🤖 Machine Learning Enthusiast: I thrive on exploring the exciting world of machine learning, from building predictive models to diving into deep learning algorithms.
+🤖 Machine Learning Enthusiast: I thrive on exploring the exciting world of machine learning, creating predictive models and learning algorithms to solve interesting and unique problems.
 
-🔍 Data Explorer: I love the thrill of uncovering insights from data. Whether it's through data visualization or statistical analysis, I'm always on the hunt for meaningful patterns.
+🔍 Data Explorer: I enjoy the thrill of uncovering new insights from data. Whether it's through data visualization or statistical analysis, I'm always searching for meaningful patterns.
 
-💡 Lifelong Learner: In this rapidly evolving field, I believe in continuous learning. I'm constantly enhancing my skills and staying up-to-date with the latest advancements in data science.
+💡 Lifelong Learner: Continous learning is a state of mind, not just simply a task. I'm constantly enhancing my skills and staying up-to-date with the latest advancements in data science.
 
 🚀✨ Join me on my data-driven journey as I explore, create, and innovate using unique data visualizations!
 

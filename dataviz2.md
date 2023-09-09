@@ -11,4 +11,6 @@ I used Flourish to create a new data visualization for the general government de
 <div class="flourish-embed flourish-chart" data-src="visualisation/14969209"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 
-## Another Visualization
+## Grid of Gauges
+
+<div class="flourish-embed flourish-gauge" data-src="visualisation/14969387"><script src="https://public.flourish.studio/resources/embed.js"></script></div>

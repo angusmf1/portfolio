@@ -10,7 +10,7 @@ This bar chart of the general government debt is one method of displaying the da
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/14969209"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
-I used Flourish to redesign the general government debt bar chart from above into a new data visualization using a grid of line charts that draw connections to sparklines. This visualization displays each government's debt-to-GDP ratio from 1995-2021.
+This is a Flourish redesign of the government debt bar chart from above. This visualization uses a grid of line charts that draw connections to sparklines (think heartbeat). This visualization displays each government's debt-to-GDP ratio from 1995-2021, showing interesting trends over time.
 
 
 ## Grid of Gauges

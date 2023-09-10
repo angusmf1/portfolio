@@ -6,7 +6,7 @@ This portfolio contains data visualizations from Telling Stories With Data
 
 ## 📚 Aspiring Data Scientist | 🤖 Machine Learning Enthusiast | 📊 Data Explorer
 
-🌟 About Me:
+🌟 About Me: 
 
 📊 Data Science Student: Currently pursuing a graduate degree from Carnegie Mellon's MISM-BIDA program, I'm passionate about the transformative power of data and its ability to drive informed decision-making.
 

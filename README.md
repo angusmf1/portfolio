@@ -45,6 +45,10 @@ Connect with me on LinkedIn: [[LinkedIn Profile](https://www.linkedin.com/in/ang
 
 [King County Demo on flourish](https://angusmf1.github.io/portfolio/kingcountydemo1.html)
 
+### 3. Tableau exercise 
+
+[Trust in news organizations](/mediatrust.md)
+
 
 ## Assignment: [Visualizing Government Debt](/dataviz2.md)
 

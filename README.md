@@ -55,18 +55,24 @@ Connect with me on LinkedIn: [[LinkedIn Profile](https://www.linkedin.com/in/ang
 [Visualizing Government Debt repository](/dataviz2.md)
 
 
-## Assignment 3&4: [Critique by Design](critique-by-design)
+## Assignment 3&4: [Critique by Design](/CritiqueByDesign.md)
 For this assignment, make sure you set up and link to a new page.  This page is linking to a new Markdown document called `critique-by-design.md`.  
 
+https://angusmf1.github.io/portfolio/CritiqueByDesign.html 
+
+
+## Final project
+Here it might be helpful to include a high-level description of your final project. 
+[Part I](final-project-part-one)
 
 <img src="coming-soon.png" width="300"/>
 
 
 > Photo by starline on <a href="https://www.freepik.com/free-vector/neon-style-coming-soon-glowing-background-design_8562880.htm#query=coming%20soon&position=3&from_view=keyword&track=ais">freepik</a>
 
-## Final project
-Here it might be helpful to include a high-level description of your final project. 
-[Part I](final-project-part-one)
+
+
+
 [Part II](final-project-part-two)
 Part III(final-project-part-three)
 

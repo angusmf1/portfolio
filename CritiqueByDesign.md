@@ -64,6 +64,8 @@ My main takeaways from the feedback is that I will definitiely sustain the color
 
 ### Part 5. Build your solution
 
-<div class="flourish-embed flourish-scatter" data-src="visualisation/15025869">
-  <script src="https://public.flourish.studio/resources/embed.js"></script></div>
+<div class="flourish-embed flourish-scatter" data-src="visualisation/15025869"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
+
+I used Flourish for my final redesign. I sustained most of the changes I made for my initial sketch design, but I added some changes as well from my interview critiques. Instead of adding a table of the top performers, I used Flourish's popup feature to dynamically show the player names and skill positions for the top data points (the large, dark green data points). I also tweaked the x-axis title to ensure that any audience will understand how EPA per play and snap count (plays run) are related to each other. I also edited the title to be more understandible. Overall, I believe that this visualization accomplished my goals of improving organzition and understanding of the data, along with making it more accessible to a broader audience. 
 

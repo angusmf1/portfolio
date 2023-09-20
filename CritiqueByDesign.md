@@ -56,11 +56,12 @@ I conducted interviews with one student, mid 20's and one working professional, 
 
 **Second response:**
 
-"This graphic is well organized and the data points stand out more than the lines" , "This graph is comparing data points. The larger, green points are more significant than the red points. There appears to be a mean line in the center?" , "I like the color scheme and how clean everything is. It helps to seperate all of the data points" , "You should explain that snap count an plays are the same thing so that the axis' titles match. But overall it looks really good."
+"This graphic is well organized and the data points stand out more than the lines" , "This graph is comparing data points. The larger, green points are more significant than the red points. There appears to be a trendline in the center? I see that the top performers are ranked on the side of the chart, are they the large, green data points?" , "I like the color scheme and how clean everything is. It helps to seperate all of the data points" , "You should explain that snap count an plays are the same thing so that the axis' titles match. You should also connect the names in the table to their respective data points. But overall it looks really good."
 
 **Takeaways from feedback:**
 
-My main takeaways from the feedback is that I will definitiely sustain the color scheme and size differences. Both interviewes noticed the trends of the graph that I wanted to communicate, which is very good. I will keep the graph clean and uncluttered, but I will add in the names of the top players to the graph. 
+My main takeaways from the feedback is that I will definitiely sustain the color scheme and size differences for the data points. Both interviewees noticed the trends of the graph that I wanted to communicate, which is very good. I will keep the graph clean and uncluttered, but I will add in the names of the top players to the graph as it was a comment from both interviewees . I will attempt to have the gridlines and axes blend into the background and not detract from the data. 
+
 
 ### Part 5. Build your solution
 

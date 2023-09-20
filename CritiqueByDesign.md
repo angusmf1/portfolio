@@ -48,7 +48,19 @@ For my initial solution, I chose to reuse the aspects of the visualization that 
 
 ### Part 4. Test the solution
 
+I conducted interviews with one student, mid 20's and one working professional, mid 30's. I asked them both these questions: "What is your first observation?", "Can you describe to me what the graphic is telling you?", "What do you like about it?", "What would you change?"
 
+**First response:**
+
+"My first observation is that the colors are nice and visually appealing." , "The graphic is a scatter chart that shows that player performance using EPA over snap count. I'm not quite sure what that is but I see that you have a description above the chart that explains it." , "I like the use of larger bubbles and colors to show which points have higher values. I like how clean the graphic is, it looks pretty organized." , "I would think about mkaing the negative, red data points larger bubbles as well to mirror the green points. I would also point out the top performers on the chart, bascially point to the exact data points becasue there aren't too many of them."
+
+**Second response:**
+
+"This graphic is well organized and the data points stand out more than the lines" , "This graph is comparing data points. The larger, green points are more significant than the red points. There appears to be a mean line in the center?" , "I like the color scheme and how clean everything is. It helps to seperate all of the data points" , "You should explain that snap count an plays are the same thing so that the axis' titles match. But overall it looks really good."
+
+**Takeaways from feedback:**
+
+My main takeaways from the feedback is that I will definitiely sustain the color scheme and size differences. Both interviewes noticed the trends of the graph that I wanted to communicate, which is very good. I will keep the graph clean and uncluttered, but I will add in the names of the top players to the graph. 
 
 ### Part 5. Build your solution
 

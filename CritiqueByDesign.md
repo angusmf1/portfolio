@@ -13,7 +13,7 @@ I chose to critique this visualization because I am very interested in sports da
 
 ### Part 3. Sketch out a solution
 
-<img src="CritiqueByDesign/assignment3&4sketch.png" width="500"/>
+<img src="assignment3&4sketch.png" width="500"/>
 
 For my initial solution, I chose to reuse the aspects of the visualization that I liked, specifically the scatter-plot format, the formatted x and y-axis, and the subdued gridlines. I decided the change the color palette to reflect negative to positive values (red-green gradient) instead of categorizing the different types of skill position players. I also decided to increase the size of the larger value data points to highlight their importance so that upon first observation, anyone should be able to intuit that the large, green data points are "better" than the small, red data points. Next, I chose to place the ranking of top players by skill position in a table to the right side of the graph instead of having the text on the screen to reduce clutter. I then added a legend that displays the color palette for different EPA value ranges. Lastly  remade the title and added text below it that eplained what the statistical metrics being used were and what they meant in terms of the graphic. All of these steps were made to reduce clutter, improve organization, and make the visualization easier to understand to a broader audience. 
 

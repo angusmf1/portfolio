@@ -56,7 +56,7 @@ I conducted interviews with one student, mid 20's and one working professional, 
 
 **Second response:**
 
-"This graphic is well organized and the data points stand out more than the lines" , "This graph is comparing data points. The larger, green points are more significant than the red points. There appears to be a trendline in the center? I see that the top performers are ranked on the side of the chart, are they the large, green data points?" , "I like the color scheme and how clean everything is. It helps to seperate all of the data points" , "You should explain that snap count an plays are the same thing so that the axis' titles match. You should also connect the names in the table to their respective data points. But overall it looks really good."
+"This graphic is well organized and the data points stand out more than the lines" , "This graph is comparing data points. The larger, green points are more significant than the red points. There appears to be a trendline in the center? I see that the top performers are ranked on the side of the chart, are they the large, green data points?" , "I like the color scheme and how clean everything is. It helps to seperate all of the data points" , "You should explain that snap count an plays are the same thing so that the axes titles match. You should also connect the names in the table to their respective data points. But overall it looks really good."
 
 **Takeaways from feedback:**
 

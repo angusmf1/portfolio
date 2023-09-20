@@ -2,6 +2,7 @@
 
 ### Part 1. find a data visualization
 
-<img src="part1viz.png" width="400"/>
+<img src="part1viz.png" width="500"/>
 
-[Sharp Football Analysis]([https://angusmf1.github.io/portfolio/kingcountydemo1.html](https://www.sharpfootballanalysis.com/analysis/epa-plus-minus-jj-watt-juju-smith-schuster/)https://www.sharpfootballanalysis.com/analysis/epa-plus-minus-jj-watt-juju-smith-schuster/)
+> Photo by <a href="https://www.sharpfootballanalysis.com/analysis/epa-plus-minus-jj-watt-juju-smith-schuster/)https://www.sharpfootballanalysis.com/analysis/epa-plus-minus-jj-watt-juju-smith-schuster/">Sharp Football Analysis</a>
+

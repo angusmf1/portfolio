@@ -64,5 +64,6 @@ My main takeaways from the feedback is that I will definitiely sustain the color
 
 ### Part 5. Build your solution
 
-
+<div class="flourish-embed flourish-scatter" data-src="visualisation/15025869">
+  <script src="https://public.flourish.studio/resources/embed.js"></script></div>
 

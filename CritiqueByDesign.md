@@ -13,5 +13,7 @@ I chose to critique this visualization because I am very interested in sports da
 
 ### Part 3. Sketch out a solution
 
+<img src="CritiqueByDesign/assignment3&4sketch.png" width="500"/>
+
 
 

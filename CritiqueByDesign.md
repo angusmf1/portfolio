@@ -52,7 +52,7 @@ I conducted interviews with one student, mid 20's and one working professional, 
 
 **First response:**
 
-"My first observation is that the colors are nice and visually appealing." , "The graphic is a scatter chart that shows that player performance using EPA over snap count. I'm not quite sure what that is but I see that you have a description above the chart that explains it." , "I like the use of larger bubbles and colors to show which points have higher values. I like how clean the graphic is, it looks pretty organized." , "I would think about mkaing the negative, red data points larger bubbles as well to mirror the green points. I would also point out the top performers on the chart, bascially point to the exact data points becasue there aren't too many of them."
+"My first observation is that the colors are nice and visually appealing." , "The graphic is a scatter chart that shows that player performance using EPA over snap count. I'm not quite sure what that is but I see that you have a description above the chart that explains it." , "I like the use of larger bubbles and colors to show which points have higher values. I like how clean the graphic is, it looks pretty organized." , "I would think about making the negative, red data points larger bubbles as well to mirror the green points. I would also point out the top performers on the chart, bascially point to the exact data points becasue there aren't too many of them."
 
 **Second response:**
 

@@ -60,7 +60,7 @@ I conducted interviews with one student, mid 20's and one working professional, 
 
 **Takeaways from feedback:**
 
-My main takeaways from the feedback is that I will definitiely sustain the color scheme and size differences for the data points. Both interviewees noticed the trends of the graph that I wanted to communicate, which is very good. I will keep the graph clean and uncluttered, but I will add in the names of the top players to the graph as it was a comment from both interviewees . I will attempt to have the gridlines and axes blend into the background and not detract from the data. 
+My main takeaways from the feedback is that I will definitiely sustain the color scheme and size differences for the data points. Both interviewees noticed the trends of the graph that I wanted to communicate, which is very good. I will keep the graph clean and uncluttered, but I will add in the names of the top players to the graph as it was a comment from both interviewees . I will attempt to have the gridlines and axes blend into the background and not detract from the data. I don't plan on enlarging the negative, red data points becuase I was the focus to primarily be on the top performers only. Neither interviewee was familiar with the statistical metrics used, so I certainly will sustain a text explaination on the visualization of what the terms mean and why they are important (specifically EPA). 
 
 
 ### Part 5. Build your solution

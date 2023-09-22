@@ -63,7 +63,9 @@ https://angusmf1.github.io/portfolio/CritiqueByDesign.html
 
 ## Final project
 Here it might be helpful to include a high-level description of your final project. 
-[Part I](/final_project_angusferrell.md))
+
+
+[Part I](/final_project_angusferrell.md)
 
 <img src="coming-soon.png" width="300"/>
 

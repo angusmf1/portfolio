@@ -1,3 +1,32 @@
-# Final Project
+# Final Project: The real dangers of Fentanyl epidemic
 
 ## Part 1.
+
+### Outline
+
+My project will focus on the fentanyl epidemic in the United States. Fentanyl is a powerful drug that has many conventionally medical applications that are FDA approved, such as pain relief. However, over the past few years the illegal use of fentanyl has grown at a staggering rate, both from recreational usage as well as being "cut" into other illegal narcotics such as cocaine. This increase in usage has lead to an alarming increase in deaths caused by fentanyl overdose. The DEA Administer Anne Milgram stated that "Fentanyl is the single deadliest drug threat our nation has ever encountered.  Fentanyl is everywhere.  From large metropolitan areas to rural America, no community is safe from this poison.  We must take every opportunity to spread the word to prevent fentanyl-related overdose death and poisonings from claiming scores of American lives every day." (dea.gov) As this statement indicates, national awareness for the dangers of fentanyl are growing, but not fast enough. My goal for this project is to create a powerful visualization that cleary communicates these dangers and creates a call to action to stand against this epidemic. I also have a personal attachment to this project as I have lost several friends/acquaintances to fentanyl overdoses, as have likely many members of my visualization's audience. The quickest way for this national epidemic to be addressed is by individuals taking action, making this call to action very important. 
+
+My project structure is as follows:
+
+1. Introduction
+  - Introduction to fentanyl that includes its definition and medical usages
+  - Introduce when fentanyl first appeared on the scene recreationally around 2013.
+  - List its different recreational uses
+
+2. Facts
+   - Show visualization of fentanyl releated deaths by overdose. This should be the first initial "wow" moment.
+   - Show visualiation of fentanyl death rate.
+   - List all revelant facts
+   - Highlight the significance and urgency of the fentanyl epidemic
+  
+3. Introduce the call to action
+   - Use the built up urgency to inspire the audience to take action
+   - List available actions that can be taken
+   - List available resources that can be used
+
+### Sketches
+
+
+
+
+### Resources/Data

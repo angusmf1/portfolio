@@ -29,13 +29,14 @@ I can join the fight against the fentanyl epidemic and help save lives by spread
    - Introduce when fentanyl first appeared on the scene recreationally around 2013.
    - List its different recreational uses
 
-2. Facts
+2. Present the fentanyl epidemic data
    - Show visualization of fentanyl releated deaths by overdose. This should be the first initial "wow" moment.
    - Show visualiation of fentanyl death rate.
    - List all revelant facts
    - Highlight the significance and urgency of the fentanyl epidemic
   
-3. Introduce the call to action
+3. List resources and solutions
+   - Call to Action
    - Use the built up urgency to inspire the audience to take action
    - List available actions that can be taken
    - List available resources that can be used

@@ -9,12 +9,15 @@ My project will focus on the fentanyl epidemic in the United States. Fentanyl is
 We must take every opportunity to spread the word to prevent fentanyl-related overdose death and poisonings from claiming scores of American lives every day." (dea.gov) As this statement indicates, national awareness for the dangers of fentanyl are growing, but not fast enough. My goal for this project is to create a powerful visualization that cleary communicates these dangers and creates a call to action to stand against this epidemic. I also have a personal attachment to this project as I have lost several friends/acquaintances to fentanyl overdoses, as have likely many members of my visualization's audience. The quickest way for this national epidemic to be addressed is by individuals taking action, making this call to action very important. 
 
 **One sentence summary**
+
 The fentanyl epidemic is much more dangerous than is generally known and will not stop growing until there is more national awareness and pressure placed on the U.S. government.
 
 **As a reader..**
+
 As a reader, I want to understand how dangerous fentanyl is, how to avoid it, what resources are available so that I can protect myself, spread awareness, and help to spur government action.
 
 **Call to Action**
+
 I can join the fight against the fentanyl epidemic and help save lives by spreading awareness, using the resources available, and putting pressure on the government to act. 
 
 

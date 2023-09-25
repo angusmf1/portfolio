@@ -50,7 +50,7 @@ Project outline sketch
 
 Data visualization sketch
 
-<img src="final_project_fentanyldeaths_sketch.png" width = "700/>
+<img src="final_project_fentanyldeaths_sketch.png" width = "700"/>
 
 
 

@@ -44,6 +44,9 @@ National Institute on Drug Abuse. (2021, December). Fentanyl. Retrieved from htt
 
 United States Drug Enforcement Administration (DEA). Fentanyl Awareness. Retrieved from https://www.dea.gov/fentanylawareness
 
+### Method and medium
+
+I plan on using Shorthand to complete the final project. It is a great resource for implementing the project structure that I have in planned, and building the story the way that I envision. I also plan on using Flourish and Tableau to build the visualizations that I will display in Shorthand. 
 
 
 

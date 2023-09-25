@@ -45,12 +45,12 @@ I can join the fight against the fentanyl epidemic and help save lives by spread
 
 Project outline sketch
 
-<img src="tswd_project_sketch.png" width="700"/>
+<img src="project_outlinesketch.png" width="600"/>
 
 
 Data visualization sketch
 
-<img src="final_project_fentanyldeaths_sketch.png" width = "700"/>
+<img src="project_vizsketch.png" width = "600"/>
 
 
 

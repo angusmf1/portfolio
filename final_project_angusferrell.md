@@ -37,7 +37,7 @@ I can join the fight against the fentanyl epidemic and help save lives by spread
   
 3. List resources and solutions
    - Call to Action
-   - Use the built up urgency to inspire the audience to take action
+   - Use the built up urgency to inspire the audience to take action/spread awareness
    - List available actions that can be taken
    - List available resources that can be used
 

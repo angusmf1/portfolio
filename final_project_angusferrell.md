@@ -9,9 +9,9 @@ My project will focus on the fentanyl epidemic in the United States. Fentanyl is
 My project structure is as follows:
 
 1. Introduction
-  - Introduction to fentanyl that includes its definition and medical usages
-  - Introduce when fentanyl first appeared on the scene recreationally around 2013.
-  - List its different recreational uses
+   - Introduction to fentanyl that includes its definition and medical usages
+   - Introduce when fentanyl first appeared on the scene recreationally around 2013.
+   - List its different recreational uses
 
 2. Facts
    - Show visualization of fentanyl releated deaths by overdose. This should be the first initial "wow" moment.

@@ -21,7 +21,8 @@ As a reader, I want to understand how dangerous fentanyl is, how to avoid it, wh
 I can join the fight against the fentanyl epidemic and help save lives by spreading awareness, using the resources available, and putting pressure on the government to act. 
 
 
-My project structure is as follows:
+
+**My project structure is as follows:**
 
 1. Introduction
    - Introduction to fentanyl that includes its definition and medical usages

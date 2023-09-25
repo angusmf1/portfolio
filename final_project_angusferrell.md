@@ -30,3 +30,19 @@ My project structure is as follows:
 
 
 ### Resources/Data
+
+CDC (Center for Disease Control and Prevention). (2023). Provisional drug overdose death counts. Provisional Vital Statistics System. Retrieved from https://www.cdc.gov/nchs/nvss/vsrr/drug-overdose-data.htm
+
+
+National Institute on Drug Abuse. (2023, June 30). Drug Overdose Death Rates. Retrieved from https://nida.nih.gov/research-topics/trends-statistics/overdose-death-rates
+
+
+National Institute on Drug Abuse. (2021, December). Fentanyl. Retrieved from https://nida.nih.gov/research-topics/fentanyl
+
+
+United States Drug Enforcement Administration (DEA). Fentanyl Awareness. Retrieved from https://www.dea.gov/fentanylawareness
+
+
+
+
+

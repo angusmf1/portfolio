@@ -41,9 +41,9 @@ I can join the fight against the fentanyl epidemic and help save lives by spread
    - List available actions that can be taken
    - List available resources that can be used
 
-### Sketches
+### Sketch
 
-
+<img src="tswd_project_sketch.png" width="700"/>
 
 
 ### Resources/Data

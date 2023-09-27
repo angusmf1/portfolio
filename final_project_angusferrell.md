@@ -28,10 +28,12 @@ I can join the fight against the fentanyl epidemic and help save lives by spread
    - Introduction to fentanyl that includes its definition and medical usages
    - Introduce when fentanyl first appeared on the scene recreationally around 2013.
    - List its different recreational uses
+   - List broad drug trafficking data
 
 2. Present the fentanyl epidemic data
    - Show visualization of fentanyl releated deaths by overdose. This should be the first initial "wow" moment.
    - Show visualiation of fentanyl death rate.
+   - Show visualizations of rising fentanyl drug trafficking into the US
    - List all revelant facts
    - Highlight the significance and urgency of the fentanyl epidemic
   
@@ -53,7 +55,7 @@ Data visualization sketch: Drug Overdose Death Rate
 <img src="project_vizsketch.png" width = "700"/>
 
 
-Data visualization sketch: Drug Trafficing
+Data visualization sketch: Drug Trafficking
 
 <img src="project_drugtrafficsketch.png" width = "700"/>
 

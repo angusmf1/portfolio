@@ -57,21 +57,22 @@ Data visualization sketch
 
 ### Resources/Data
 
-Certainly! Here is the information as a hyperlink in Markdown format:
 
-[**CDC (Center for Disease Control and Prevention)**](https://www.cdc.gov/nchs/nvss/vsrr/drug-overdose-data.htm) (2023). *Provisional drug overdose death counts*. Provisional Vital Statistics System. Retrieved from [https://www.cdc.gov/nchs/nvss/vsrr/drug-overdose-data.htm](https://www.cdc.gov/nchs/nvss/vsrr/drug-overdose-data.htm)
+[**ABC news**](https://abcnews.go.com/Health/fentanyl-overdose-deaths-surged-279-2016-heroin-deaths/story?id=99008519) Fentanyl overdose deaths surged 279% since 2016 while heroin deaths fell: CDC
+
+[**CDC (Center for Disease Control and Prevention)**](https://www.cdc.gov/nchs/nvss/vsrr/drug-overdose-data.htm) Provisional drug overdose death counts
+
+[**The Hill**](https://thehill.com/policy/healthcare/3917058-teen-overdose-deaths-have-doubled-in-three-years-blame-fentanyl/) Teen overdose deaths have doubled in three years. Blame fentanyl.
+
+[**National Institute on Drug Abuse)**](https://nida.nih.gov/research-topics/trends-statistics/overdose-death-rates) Drug Overdose Death Rates
+
+[**National Institute on Drug Abuse)**](https://nida.nih.gov/research-topics/fentanyl) Fentanyl
+
+[**United States Drug Enforcement Administration (DEA)**](https://www.dea.gov/fentanylawareness) Fentanyl Awareness
+
+[**U.S. Customs and Border Protection**](https://www.cbp.gov/newsroom/stats/drug-seizure-statistics) Drug Seizure Statistics
 
 
-CDC (Center for Disease Control and Prevention). (2023). Provisional drug overdose death counts. Provisional Vital Statistics System. Retrieved from https://www.cdc.gov/nchs/nvss/vsrr/drug-overdose-data.htm
-
-
-National Institute on Drug Abuse. (2023, June 30). Drug Overdose Death Rates. Retrieved from https://nida.nih.gov/research-topics/trends-statistics/overdose-death-rates
-
-
-National Institute on Drug Abuse. (2021, December). Fentanyl. Retrieved from https://nida.nih.gov/research-topics/fentanyl
-
-
-United States Drug Enforcement Administration (DEA). Fentanyl Awareness. Retrieved from https://www.dea.gov/fentanylawareness
 
 ### Method and medium
 

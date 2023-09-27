@@ -43,17 +43,19 @@ I can join the fight against the fentanyl epidemic and help save lives by spread
 
 ### Sketch
 
-Project outline sketch
+Project story arc sketch
 
 <img src="project_outlinesketch.png" width="700"/>
 
 
-Data visualization sketch
+Data visualization sketch: Drug Overdose Death Rate 
 
 <img src="project_vizsketch.png" width = "700"/>
 
 
+Data visualization sketch: Drug Trafficing
 
+<img src="project_drugtrafficsketch.png" width = "700"/>
 
 ### Resources/Data
 

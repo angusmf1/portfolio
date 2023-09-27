@@ -64,9 +64,9 @@ Data visualization sketch
 
 [**The Hill**](https://thehill.com/policy/healthcare/3917058-teen-overdose-deaths-have-doubled-in-three-years-blame-fentanyl/) Teen overdose deaths have doubled in three years. Blame fentanyl.
 
-[**National Institute on Drug Abuse)**](https://nida.nih.gov/research-topics/trends-statistics/overdose-death-rates) Drug Overdose Death Rates
+[**National Institute on Drug Abuse**](https://nida.nih.gov/research-topics/trends-statistics/overdose-death-rates) Drug Overdose Death Rates
 
-[**National Institute on Drug Abuse)**](https://nida.nih.gov/research-topics/fentanyl) Fentanyl
+[**National Institute on Drug Abuse**](https://nida.nih.gov/research-topics/fentanyl) Fentanyl
 
 [**United States Drug Enforcement Administration (DEA)**](https://www.dea.gov/fentanylawareness) Fentanyl Awareness
 

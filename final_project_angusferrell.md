@@ -1,4 +1,4 @@
-# Final Project: The real dangers of Fentanyl epidemic
+# Final Project: The real dangers of the Fentanyl epidemic
 
 ## Part 1.
 

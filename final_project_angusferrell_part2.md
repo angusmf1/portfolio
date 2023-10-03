@@ -4,36 +4,65 @@
 
 ### link to [Part 1](final_project_angusferrell.md)
 
-### Wireframes and storyboards
+| [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [visualizing debt](visualizing-government-debt) | [critique by design](critique-by-design) | [final project I](final_project_angusferrell.md) | 
 
-Project draft using shorthand
+# Wireframes / storyboards
+> Using your sketches developed last week, further develop your story outline and relevant components visually through the use of wireframing / storyboards. Using your outline as a guide, include high-fidelity, individual draft data visualizations of the critical elements of your story you want to share with your reader. Note: you can build these elements out directly in Shorthand this week if you wish.  Reminder: this template is intended to help, but it doesn't substitute for reading through the full homework assignment!  The assignment page on Canvas includes many important details for completing Part II of the final project. 
 
-### User Research and Interviews
+Text here!
 
+# User research 
 
-Interviews:
+## Target audience
+> Include your approach to identifying representative individuals, and who you hope to reach with your story. 
 
-Your user research protocol should clearly identify the following: 
+Text here!
 
-a. the target audience you hope to reach with your story; 
-b. your approach to identifying representative individuals to interview; 
-c. your interview script; 
-d. the findings from your interviews; and 
-e. changes you plan on implementing to your visualizations next week to address the issues identified. 
+## Interview script
+> List the goals from your research, and the questions you intend to ask. 
 
+Text here!
 
-| Interview    | Question                                    | Answer
-|--------------|---------------------------------------------|---------------------------------------------------|
-| 1            | What is your first observation?           | This is a very long answer this is this a very long answer this is this a very long answerthis is this a very long answerthis is this a very long answerthis is this a very long answerthis is this a very long answerthis is this a very long answer                                    | 
-| 1            | Can you describe to me what the graphic is telling you?                                       | You                                               | 
-| 1            | What do you like about it?                  | Swimming                                          | 
-| 1            | What would you change?"                | Swimming                                          | 
-
-
+| Goal | Questions to Ask |
+|------|------------------|
+|      |                  |
+|      |                  |
+|      |                  |
 
 
-talking about your findings, specific insights and observations, key quotes:
+Text here!
+
+## Interview findings
+> Detail the findings from your interviews.  Do not include PII.  Capture specific insights where possible.
+
+Text here!
+
+| Questions               | Interview 1 (briefly describe) | Interview 2 | Interview 3 |
+|-------------------------|--------------------------------|-------------|-------------|
+| Question you asked here | Insightful feedback            |             |             |
+|                         |                                |             |             |
+|                         |                                |             |             |
 
 
+# Identified changes for Part III
+> Document the changes you plan on implementing next week to address any issues identified.  
 
-how you plan on using this feedback to improve your project as you head into Part III:
+Text here!
+
+| Research synthesis                       | Anticipated changes for Part III                                                |
+|------------------------------------------|---------------------------------------------------------------------------------|
+| Findings or observations from interviews | Describe what, if any changes you anticipate making to address the observation. |
+|                                          |                                                                                 |
+|                                          |                                                                                 |
+|                                          |                                                                                 |
+| ...add more rows as necessary            |                                                                                 |
+
+> ...include any final thoughts you have here. 
+
+Text here!
+
+# Moodboards / personas
+> If you did this optional part, include details here.  Otherwise remove this section
+
+Text here!
+

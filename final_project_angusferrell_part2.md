@@ -21,13 +21,10 @@ Interviews:
 
 | Interview    | Question                                    | Answer
 |--------------|---------------------------------------------|---------------------------------------------------|
-|              |                                             |                                                   |
-| 1            | cat                                         | Sleeping                                          | 
-|              |                                             |                                                   |
-| 1            | dog                                         | You                                               | 
-|              |                                             |                                                   |
-| 1            | fish                                        | Swimming                                          | 
-|              |                                             |                                                   |
+| 1            | "What is your first observation?"           | Sleeping                                          | 
+| 1            | Can you describe to me what the graphic is telling you?                                       | You                                               | 
+| 1            | What do you like about it?                  | Swimming                                          | 
+
 
 
 

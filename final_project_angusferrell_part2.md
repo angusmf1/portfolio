@@ -1,4 +1,4 @@
-# Final Project: The real dangers of the Fentanyl epidemic 
+# Final Project: Fighting the Fentanyl Epidemic 
 
 ## Part 2: Final project wireframes / storyboards and user research
 

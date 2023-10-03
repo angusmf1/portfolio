@@ -13,17 +13,21 @@ Project draft using shorthand
 
 Interviews:
 
-| Name         | Type of pet | Favority activity 1 | FA 2   | FA 3            | FA 4                                |
-|--------------|-------------|---------------------|--------|-----------------|-------------------------------------|
-| Eli          | cat         | Sleeping            | Eating | Being pet       | Plotting to overthow dog empire     |
-| Howard       | dog         | You                 | You    | You             | Eating                              |
-| Frankenstein | fish        | Swimming            | Eating | Blowing bubbles | Forgetting                          |
+Your user research protocol should clearly identify the following: 
+
+a. the target audience you hope to reach with your story; 
+b. your approach to identifying representative individuals to interview; 
+c. your interview script; 
+d. the findings from your interviews; and 
+e. changes you plan on implementing to your visualizations next week to address the issues identified. 
+
 
 | Interview    | Question                                    | Answer
 |--------------|---------------------------------------------|---------------------------------------------------|
-| 1            | "What is your first observation?"           | Sleeping                                          | 
+| 1            | What is your first observation?           | This is a very long answer this is this a very long answer this is this a very long answerthis is this a very long answerthis is this a very long answerthis is this a very long answerthis is this a very long answerthis is this a very long answer                                    | 
 | 1            | Can you describe to me what the graphic is telling you?                                       | You                                               | 
 | 1            | What do you like about it?                  | Swimming                                          | 
+| 1            | What would you change?"                | Swimming                                          | 
 
 
 

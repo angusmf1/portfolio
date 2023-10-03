@@ -1,5 +1,11 @@
-# Final Project
+# Final Project: The real dangers of the Fentanyl epidemic 
 
-# Part 2: Final project wireframes / storyboards and user research
+## Part 2: Final project wireframes / storyboards and user research
+
+### link to [Part 1](portfolio/final_project_angusferrell.md)
+
+### Wireframes and storyboards
+
+Project draft using shorthand
 
 

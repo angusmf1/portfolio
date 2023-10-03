@@ -19,6 +19,16 @@ Interviews:
 | Howard       | dog         | You                 | You    | You             | Eating                              |
 | Frankenstein | fish        | Swimming            | Eating | Blowing bubbles | Forgetting                          |
 
+| Interview    | Question                                    | Answer
+|--------------|---------------------------------------------|---------------------------------------------------|
+|              |                                             |                                                   |
+| 1            | cat                                         | Sleeping                                          | 
+|              |                                             |                                                   |
+| 1            | dog                                         | You                                               | 
+|              |                                             |                                                   |
+| 1            | fish                                        | Swimming                                          | 
+|              |                                             |                                                   |
+
 
 
 talking about your findings, specific insights and observations, key quotes:

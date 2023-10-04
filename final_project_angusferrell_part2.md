@@ -7,7 +7,7 @@
 # Wireframes / storyboards
 > Shorthand
 
-<script src="https://carnegiemellon.shorthandstories.com/fighting-the-fentanyl-epidemic/embed.js"></script>
+<script src="[https://carnegiemellon.shorthandstories.com/fighting-the-fentanyl-epidemic/embed.js](https://preview.shorthand.com/aoCZpW0GGtqeBEfz)"></script>
 
 # User research 
 

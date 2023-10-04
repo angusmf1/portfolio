@@ -2,8 +2,6 @@
 
 ## Part 2: Final project wireframes / storyboards and user research
 
-### link to [Part 1](final_project_angusferrell.md)
-
 | [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [visualizing debt](visualizing-government-debt) | [critique by design](critique-by-design) | [final project I](final_project_angusferrell.md) | 
 
 # Wireframes / storyboards
@@ -31,9 +29,7 @@ The target audience that I hope to reach with my story are every concerned Ameri
 
 
 ## Interview findings
-> Detail the findings from your interviews.  Do not include PII.  Capture specific insights where possible.
-
-Text here!
+> The findings from my interviews and key takeways
 
 | Questions               | Interview 1 (briefly describe) | Interview 2 | Interview 3 |
 |-------------------------|--------------------------------|-------------|-------------|

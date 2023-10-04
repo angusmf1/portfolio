@@ -14,23 +14,21 @@ Text here!
 # User research 
 
 ## Target audience
-> Include your approach to identifying representative individuals, and who you hope to reach with your story. 
+> My approach to identifying my target audience
 
-Text here!
+The target audience that I hope to reach with my story are every concerned American citizen. This includes students, parents, siblings, friends, and co-workers. My approach to identifying representative individuals to interview were finding three people that fall somewhere in these categories. I selected a parent in their 40's, a working professional in their 30's, and a student in their 20's.
 
 ## Interview script
-> List the goals from your research, and the questions you intend to ask. 
-
-Text here!
+> The goals from research and related questions:
 
 | Goal | Questions to Ask |
 |------|------------------|
-|      |                  |
-|      |                  |
-|      |                  |
+|Find the audience's perception of fentanyl | What is your perception of fentanyl in the United States?|           
+|Find the audience's initial obervations of my shorthand storyboard | What is your first obersvation?  |
+|Is my call to action clear? | Can you describe to me what the purpose of the visualization was? |
+|What should I keep/what works well?  | What do you like about it? |
+|What should I change?  | What would you change? |
 
-
-Text here!
 
 ## Interview findings
 > Detail the findings from your interviews.  Do not include PII.  Capture specific insights where possible.
@@ -39,9 +37,11 @@ Text here!
 
 | Questions               | Interview 1 (briefly describe) | Interview 2 | Interview 3 |
 |-------------------------|--------------------------------|-------------|-------------|
-| Question you asked here | Insightful feedback            |             |             |
-|                         |                                |             |             |
-|                         |                                |             |             |
+|What is your perception of fentanyl in the United States? |             |             |             |
+|What is your first observation? | Insightful feedback     |             |             |             |
+|Can you describe to me what the purpose of the visualization was?   |             |             |             |
+|What do you like about it?                                |             |             |             |
+|What would you change?                                    |             |             |             |
 
 
 # Identified changes for Part III

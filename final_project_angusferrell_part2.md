@@ -9,6 +9,9 @@
 
 <script src="https://preview.shorthand.com/aoCZpW0GGtqeBEfz"></script>
 
+[![Shorthand Story](shorthand_thumbnail.png)](https://preview.shorthand.com/aoCZpW0GGtqeBEfz)
+
+
 # User research 
 
 ## Target audience

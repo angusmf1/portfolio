@@ -56,7 +56,7 @@ The target audience that I hope to reach with my story is every concerned Americ
 | I found that I need to fix the "Difference in Drug Seizure Weight" visualization. | I will remove the zero's make the visual appear more polished and not appear incomplete. |
 | I found that I need to remove the "Follow the Fentanyl Flow" intro text from the map. | It is unnecessary an can probably be displayed better by a text section above it.| 
 | The dark, urban theme works well. | I will work on polishing up my shorthand presentation, but I will keep that visual theme at the center of it. |
-| I should add another expert quote | I can add another text over image insert to my shorthand presentation in the drug trafficking section that will add more context to the narrative. |
+| I should add an additional expert quote. | I can add another text over image expert quote to my shorthand presentation in the drug trafficking section that will add more context to the narrative. |
 
 
 

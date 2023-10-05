@@ -14,11 +14,14 @@
 
 ### Target audience
 > My approach to identifying my target audience
+> 
 
-The target audience that I hope to reach with my story are every concerned American citizen. This includes students, parents, siblings, friends, and co-workers. My approach to identifying representative individuals to interview were finding three people that fall somewhere in these categories. I selected a parent/artist in their 50's, a working professional in their 30's, and a student in their 20's.
+The target audience that I hope to reach with my story are every concerned American citizen. This includes students, parents, siblings, friends, and co-workers. My approach to identifying representative individuals to interview were finding three people that fall somewhere in these categories. I selected a parent/artist in their 50's, a working professional in their 30's, and a student in their 20's. The interviews were conducted in that respective order. 
+
 
 ### Interview script
 > The goals from research and related questions:
+
 
 | Goal | Questions to Ask |
 |------|------------------|
@@ -43,7 +46,8 @@ The target audience that I hope to reach with my story are every concerned Ameri
 
 ## Identified changes for Part III
 > Here are the changes I plan on implementing for part III
-> 
+
+
 
 | Research synthesis                       | Anticipated changes for Part III                                                |
 |------------------------------------------|---------------------------------------------------------------------------------|
@@ -60,6 +64,6 @@ The target audience that I hope to reach with my story are every concerned Ameri
 
 ### Final thoughts 
 
-My Shorthand presentation is coming along nicely and is almost complete. The narrative structure of setup, conflict, and resolution appears to be in place well. The quality and structure of my presentation draws my audience's interest and convinces them to want to read more. The dark and moody theme works in concert with the graphics to create a good flow that's not too clunky or crowded. I will add a personal anecdote to add a deeper emotional element to the story and make my call to action more persuasive. 
+My Shorthand presentation is coming along nicely and is almost complete. The narrative structure of setup, conflict, and resolution appears to be in place well. The quality and structure of my presentation draws my audience's interest and convinces them to want to read more. The dark and moody theme works in concert with the graphics to create a good flow that's not too clunky or crowded. I will add a personal anecdote and an additional expert quote to add a deeper emotional element to the story and make my call to action more persuasive. I will tweak my visualizations based on the critiques that I recieved and things that I noticed during the critique process, such as removing the zero's from the "Difference in Drug Seizure Weight" visualization to make it feel more polished. 
 
 

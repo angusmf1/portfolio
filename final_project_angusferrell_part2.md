@@ -34,15 +34,17 @@ The target audience that I hope to reach with my story are every concerned Ameri
 
 | Questions               | Interview 1 (briefly describe) | Interview 2 | Interview 3 |
 |-------------------------|--------------------------------|-------------|-------------|
-|What is your perception of fentanyl in the United States? |  Fentanyl is an epidemic in the USA and an emergency issue that needs to be dealt with immediately. The overdoses and the mixing of it into other drugs as wells as over the counter pharmaceuticals is a huge issue. Many people are exposed without intent            |             |             |
-|What is your first observation? |  The presentation visually guided me through the written material. The graphs which impacted my understanding of the content the most were the graph of the overdoses and then the graph which expanded as I scrolled down through the topics.|            |             |             |
-|Can you describe to me what the purpose of the visualization was?   | As a visual learner I understand that information communicated in multiple forms is better absorbed by the reader. Not only were there many on point photos of the topic being explored, the visuals had an interactive and animated component             |             |             |
-|What do you like about it? | I like the depth of the presentation complete with qualitative data, yet also real life examples of the complexity of the situation all conveyed visually. I like the design of the dark, urban concrete look. The map of the USA with the trafficking route also make a great interactive element             |             |             |
-|What would you change?  | The only thing I might add if possible would be a short video of a victim or expert in the subject just to bring even further depth to the information             |             |             |
+|What is your perception of fentanyl in the United States? |  Fentanyl is an epidemic in the USA and an emergency issue that needs to be dealt with immediately. The overdoses and the mixing of it into other drugs as wells as over the counter pharmaceuticals is a huge issue. Many people are exposed without intent.  |  Fentanyl is horrible, hidden drug used to lace other drugs. It doesn’t get the attention that it should. People are masking it with opioids, when fentanyl is the real killer.           |             |
+|What is your first observation? |  The presentation visually guided me through the written material. The graphs which impacted my understanding of the content the most were the graph of the overdoses and then the graph which expanded as I scrolled down through the topics.| Aesthetically pleasing. The graphics made me want to continue scrolling through it.
+           |             |             |
+|Can you describe to me what the purpose of the visualization was?   | As a visual learner I understand that information communicated in multiple forms is better absorbed by the reader. Not only were there many on point photos of the topic being explored, the visuals had an interactive and animated component |To educate and raise awareness about fentanyl. This inspires me to spread awareness of fentanyl and its dangers, as well as promote harm reduction.             |             |
+|What do you like about it? | I like the depth of the presentation complete with qualitative data, yet also real life examples of the complexity of the situation all conveyed visually. I like the design of the dark, urban concrete look. The map of the USA with the trafficking route also make a great interactive element  | The callout and the graphics work well together. I like the simplicity of the graphics, not over saturated with information. I love that it’s dark and moody. I like the format of the text and graphics.             |             |
+|What would you change?  | The only thing I might add if possible would be a short video of a victim or expert in the subject just to bring even further depth to the information  |  Fix Difference in Drug Seizure Weight graph, the zero’s make it seem incomplete or that it’s not showing correctly. Take out the “Follow the Fentanyl Flow” intro text. Add a section for harm reduction, it should be highlighted more these days to help reduce overdoses. 
+           |             |
 
 
 # Identified changes for Part III
-> Document the changes you plan on implementing next week to address any issues identified.  
+> Here are the changes I plan on implementing for part III  
 
 Text here!
 
@@ -58,8 +60,4 @@ Text here!
 
 Text here!
 
-# Moodboards / personas
-> If you did this optional part, include details here.  Otherwise remove this section
-
-Text here!
 

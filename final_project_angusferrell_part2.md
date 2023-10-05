@@ -5,7 +5,7 @@
 | [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [visualizing debt](visualizing-government-debt) | [critique by design](critique-by-design) | [final project I](final_project_angusferrell.md) | 
 
 # Wireframes / storyboards
-> Shorthand
+> Visit the Shorthand link below:
 
 [![Shorthand Story](shorthand_thumbnail.png)](https://preview.shorthand.com/aoCZpW0GGtqeBEfz)
 

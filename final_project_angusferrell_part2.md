@@ -52,6 +52,7 @@ The target audience that I hope to reach with my story are every concerned Ameri
 | I found that I need to remove the "Follow the Fentanyl Flow" intro text from the map. | It is unnecessary an can probably be displayed better by a text overhead above | 
 | The dark, urban theme works well. | I will work on polishing up my shorthand presentation, but I will keep that visual theme at the center of it. |
 | I should add a personal anecdote/account. | I don't think adding a video is necessary, but adding personal stories and/or experiences would add a powerful emotional undertone to the presentation and make my call to action for pursuasive. |
+| I should add another expert quote | I can add another text over image insert to my shorthand presentation in the drug trafficking section that will add more context to the narrative. |
 
 | Research | Changes |
 |---------|-----------|

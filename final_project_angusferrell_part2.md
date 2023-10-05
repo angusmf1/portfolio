@@ -51,7 +51,7 @@ The target audience that I hope to reach with my story are every concerned Ameri
 | I found that I need to fix the "Difference in Drug Seizure Weight" visualization | I will remove the zero's make the visual appear more polished and not imcomplete |
 | I found that I need to remove the "Follow the Fentanyl Flow" intro text from the map. | It is unnecessary an can probably be displayed better by a text overhead above | 
 | The dark, urban theme works well. | I will work on polishing up my shorthand presentation, but I will keep that visual theme at the center of it. |
-| test | test |
+| I should add a personal anecdote/account. | test |
 
 | Research | Changes |
 |---------|-----------|

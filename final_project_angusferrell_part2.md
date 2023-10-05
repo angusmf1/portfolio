@@ -49,10 +49,9 @@ Text here!
 | Research synthesis                       | Anticipated changes for Part III                                                |
 |------------------------------------------|---------------------------------------------------------------------------------|
 | I found that I need to fix the "Difference in Drug Seizure Weight" visualization | I will remove the zero's make the visual appear more polished and not imcomplete |
-| I found that I need to remove the "Follow the Fentanyl Flow" intro text from the map. | It is unnecessary an can probably be displayed better by a text overhead above.|                |                                                                                 |
-|                                          |                                                                                 |
-|                                          |                                                                                 |
-| ...add more rows as necessary            |                                                                                 |
+| I found that I need to remove the "Follow the Fentanyl Flow" intro text from the map. | It is unnecessary an can probably be displayed better by a text overhead above.|              | I need to add a personal anecdote/account | I don't think adding a video is necessary, but adding personal stories and/or experiences would add a powerful emotional undertone to the presentation and make my call to action for pursuasive. |                                                                          
+| I found that I should add a section for harm reduction | I can add in links to critical resources for addicts, and potentially tie this section in to the personal anecdotes. |       |                                          |                                                                                 |
+|            |                                                                                 |
 
 > Final thoughts 
 

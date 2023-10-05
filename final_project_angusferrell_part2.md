@@ -4,20 +4,20 @@
 
 | [home page](https://github.com/angusmf1/portfolio/) | [visualizing debt](dataviz2.md) | [critique by design](CritiqueByDesign.md) | [final project I](final_project_angusferrell.md) | 
 
-# Wireframes / storyboards
+## Wireframes / storyboards
 > Visit the Shorthand link below:
 
 [![Shorthand Story](ShorthandPic.jpg)](https://preview.shorthand.com/aoCZpW0GGtqeBEfz)
 
 
-# User research 
+## User research 
 
-## Target audience
+### Target audience
 > My approach to identifying my target audience
 
 The target audience that I hope to reach with my story are every concerned American citizen. This includes students, parents, siblings, friends, and co-workers. My approach to identifying representative individuals to interview were finding three people that fall somewhere in these categories. I selected a parent/artist in their 50's, a working professional in their 30's, and a student in their 20's.
 
-## Interview script
+### Interview script
 > The goals from research and related questions:
 
 | Goal | Questions to Ask |
@@ -41,7 +41,7 @@ The target audience that I hope to reach with my story are every concerned Ameri
 |What would you change?  | The only thing I might add if possible would be a short video of a victim or expert in the subject just to bring even further depth to the information  |  Fix "Difference in Drug Seizure Weight" graph, the zero’s make it seem incomplete or that it’s not showing correctly. Take out the “Follow the Fentanyl Flow” intro text. Add a section for harm reduction, it should be highlighted more these days to help reduce overdoses. |             |
 
 
-# Identified changes for Part III
+## Identified changes for Part III
 > Here are the changes I plan on implementing for part III  
 
 Text here!
@@ -52,8 +52,8 @@ Text here!
 | I found that I need to remove the "Follow the Fentanyl Flow" intro text from the map. | It is unnecessary an can probably be displayed better by a text overhead above.|              | I need to add a personal anecdote/account | I don't think adding a video is necessary, but adding personal stories and/or experiences would add a powerful emotional undertone to the presentation and make my call to action for pursuasive. |                                                                          
 | I found that I should add a section for harm reduction | I can add in links to critical resources for addicts, and potentially tie this section in to the personal anecdotes. |       | The dark, urban theme works well   | I will work on polishing up my shorthand presentation, but I will keep that visual theme at the center of it|                                    |            |                                                                                 |
 
-> Final thoughts 
+### Final thoughts 
 
-Text here!
+My Shorthand presentation is coming along nicely and is almost complete. The narrative structure of setup, conflict, and resolution appears to be in place well. The quality and structure of my presentation draws my audience's interest and convinces them to want to read more. The dark and moody theme works in concert with the graphics to create a good flow that's not too clunky or crowded. I will add a personal anecdote to add a deeper emotional element to the story and make my call to action more persuasive. 
 
 

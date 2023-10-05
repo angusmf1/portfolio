@@ -49,7 +49,7 @@ Text here!
 | Research synthesis                       | Anticipated changes for Part III                                                |
 |------------------------------------------|---------------------------------------------------------------------------------|
 | I found that I need to fix the "Difference in Drug Seizure Weight" visualization | I will remove the zero's make the visual appear more polished and not imcomplete |
-| I found that I need to remove the "Follow the Fentanyl Flow" intro text from the map. It is unnecessary an can probably be displayed better by a text overhead above.|                |                                                                                 |
+| I found that I need to remove the "Follow the Fentanyl Flow" intro text from the map. | It is unnecessary an can probably be displayed better by a text overhead above.|                |                                                                                 |
 |                                          |                                                                                 |
 |                                          |                                                                                 |
 | ...add more rows as necessary            |                                                                                 |

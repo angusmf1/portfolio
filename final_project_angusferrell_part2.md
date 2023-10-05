@@ -7,7 +7,7 @@
 # Wireframes / storyboards
 > Visit the Shorthand link below:
 
-[![Shorthand Story](shorthandPic.jpg)](https://preview.shorthand.com/aoCZpW0GGtqeBEfz)
+[![Shorthand Story](ShorthandPic.jpg)](https://preview.shorthand.com/aoCZpW0GGtqeBEfz)
 
 
 # User research 

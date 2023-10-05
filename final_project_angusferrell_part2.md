@@ -16,7 +16,7 @@
 > My approach to identifying my target audience
 > 
 
-The target audience that I hope to reach with my story are every concerned American citizen. This includes students, parents, siblings, friends, and co-workers. My approach to identifying representative individuals to interview were finding three people that fall somewhere in these categories. I selected a parent/artist in their 50's, a working professional in their 30's, and a student in their 20's. The interviews were conducted in that respective order. 
+The target audience that I hope to reach with my story is every concerned American citizen. This is because the fentanyl epidemic effects every American, no one is beyond its insidious touch. This includes students, parents, siblings, friends, and co-workers. My approach to identifying representative individuals to interview were finding three people that fall somewhere in these categories. I selected a parent/artist in their 50's, a working professional in their 30's, and a student in their 20's. The interviews were conducted in that respective order. 
 
 
 ### Interview script

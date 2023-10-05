@@ -2,7 +2,7 @@
 
 ## Part 2: Final project wireframes / storyboards and user research
 
-| [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [visualizing debt](visualizing-government-debt) | [critique by design](critique-by-design) | [final project I](final_project_angusferrell.md) | 
+| [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [visualizing debt](dataviz2) | [critique by design](CritiqueByDesign) | [final project I](final_project_angusferrell.md) | 
 
 # Wireframes / storyboards
 > Visit the Shorthand link below:

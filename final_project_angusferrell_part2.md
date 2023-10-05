@@ -15,7 +15,7 @@
 ## Target audience
 > My approach to identifying my target audience
 
-The target audience that I hope to reach with my story are every concerned American citizen. This includes students, parents, siblings, friends, and co-workers. My approach to identifying representative individuals to interview were finding three people that fall somewhere in these categories. I selected a parent in their 40's, a working professional in their 30's, and a student in their 20's.
+The target audience that I hope to reach with my story are every concerned American citizen. This includes students, parents, siblings, friends, and co-workers. My approach to identifying representative individuals to interview were finding three people that fall somewhere in these categories. I selected a parent/artist in their 50's, a working professional in their 30's, and a student in their 20's.
 
 ## Interview script
 > The goals from research and related questions:
@@ -34,7 +34,7 @@ The target audience that I hope to reach with my story are every concerned Ameri
 
 | Questions               | Interview 1 (briefly describe) | Interview 2 | Interview 3 |
 |-------------------------|--------------------------------|-------------|-------------|
-|What is your perception of fentanyl in the United States? |             |             |             |
+|What is your perception of fentanyl in the United States? |  1 . F is an epidemic in the USA and an emergency issue that needs to be dealt with immediately. The overdoses and the mixing F into other drugs as wells as over the counter pharmaceuticals. Many people are exposed without intent            |             |             |
 |What is your first observation? | Insightful feedback     |             |             |             |
 |Can you describe to me what the purpose of the visualization was?   |             |             |             |
 |What do you like about it?                                |             |             |             |

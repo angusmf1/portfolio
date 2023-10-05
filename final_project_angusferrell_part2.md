@@ -32,7 +32,7 @@ The target audience that I hope to reach with my story are every concerned Ameri
 ## Interview findings
 > The findings from my interviews and key takeways
 
-| Questions               | Interview 1 (briefly describe) | Interview 2 | Interview 3 |
+| Questions               | Interview 1                    | Interview 2 | Interview 3 |
 |-------------------------|--------------------------------|-------------|-------------|
 |What is your perception of fentanyl in the United States? |  Fentanyl is an epidemic in the USA and an emergency issue that needs to be dealt with immediately. The overdoses and the mixing of it into other drugs as wells as over the counter pharmaceuticals is a huge issue. Many people are exposed without intent.  |  Fentanyl is horrible, hidden drug used to lace other drugs. It doesn’t get the attention that it should. People are masking it with opioids, when fentanyl is the real killer. |             |
 |What is your first observation? |  The presentation visually guided me through the written material. The graphs which impacted my understanding of the content the most were the graph of the overdoses and then the graph which expanded as I scrolled down through the topics.| Aesthetically pleasing. The graphics made me want to continue scrolling through it.|       |             

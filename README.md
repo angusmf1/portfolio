@@ -68,14 +68,12 @@ Here it might be helpful to include a high-level description of your final proje
 | [final project I](final_project_angusferrell.md) | [final project II](final_project_angusferrell_part2.md) | [final project III](final_project_angusferrell_part3.md) |
 
 
+### The final data story
+> Visit the Shorthand link below:
+
+[![Shorthand Story](ShorthandPic.jpg)](https://carnegiemellon.shorthandstories.com/fighting-the-fentanyl-epidemic/index.html)
 
 
-
-
-
-
-[Part II](final-project-part-two)
-Part III(final-project-part-three)
 
 
 

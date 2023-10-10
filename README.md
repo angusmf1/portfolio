@@ -61,8 +61,8 @@ For this assignment, make sure you set up and link to a new page.  This page is 
 https://angusmf1.github.io/portfolio/CritiqueByDesign.html 
 
 
-## Final project
-Here it might be helpful to include a high-level description of your final project. 
+## Final project: Fighting the Fentanyl Epidemic
+My final project focuses on the ongoing fentanyl epidemic in the United States. It provides a brief overview and description of fentanyl and provides visualizations that highlight the alarming growth of fentanyl-related overdose deaths and death rates. It then covers the growing illicit fentanyl trafficking and drug seizures into the United States, highlighting morbid facts and statistics. It uses a map visualization to illustrate where exactly fentanyl is entering the country by rank order. Finally, the presentation highlights harm reduction and other resources. It provides a call to action that inspires the audience to support and spread awareness for harm reduction resources, sign petitions against fentanyl, and support ongoing legislation. 
 
 
 | [final project I](final_project_angusferrell.md) | [final project II](final_project_angusferrell_part2.md) | [final project III](final_project_angusferrell_part3.md) |

@@ -65,12 +65,11 @@ https://angusmf1.github.io/portfolio/CritiqueByDesign.html
 Here it might be helpful to include a high-level description of your final project. 
 
 
-[Part I](/final_project_angusferrell.md)
-
-<img src="coming-soon.png" width="300"/>
+| [final project I](final_project_angusferrell.md) | [final project II](final_project_angusferrell_part2.md) | [final project III](final_project_angusferrell_part3.md) |
 
 
-> Photo by starline on <a href="https://www.freepik.com/free-vector/neon-style-coming-soon-glowing-background-design_8562880.htm#query=coming%20soon&position=3&from_view=keyword&track=ais">freepik</a>
+
+
 
 
 

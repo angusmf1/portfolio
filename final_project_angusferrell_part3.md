@@ -19,9 +19,9 @@ I made several changes to my shorthand visualization based on the grading feedba
 I made a few stylistic changes to my shorthand by making every important number/statistic bold and highlighting it in red. This causes these stats to pop throughout the visualization and hopefully draw the audience's eyes. Next, in order to avoid plagiarism, I changed every image in my shorthand to Unsplash photos to be safe. I was able to find similar images to the ones that I had used previously, so that change was minor but beneficial. Finally, I tested my presentation using TurnItIn on Canvas to check for any issues with plagiarism. In totality, all of these added changes made my shorthand visualization better structured, more visually appealing, and more persuasive.
 
 ## The audience
-> Talk about who you identified as the audience for your final data story.  Include any other information you've used that helped you narrow the focus (e.g. insights from your interviews, personas, etc.).  Note any specific adjustments you made to your final project to make it work for your audience.
+> My intended audience for the final data story. 
 
-Text here!
+My target audience from Part II to Part III did not change. My interviews confirmed that the fentanyl epidemic is an issue for Americans everywhere of all ages and that my target audience was correct. As stated in Part II: The target audience that I hope to reach with my story is every concerned American citizen. This is because the fentanyl epidemic affects every American, no one is beyond its insidious touch. This includes students, parents, siblings, friends, and co-workers. My approach to identifying representative individuals to interview was finding three people who fall somewhere in these categories. I selected a parent/artist in their 50's, a working professional in their 30's, and a student in their 20's. 
 
 
 ## References

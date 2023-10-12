@@ -10,24 +10,22 @@
 [![Shorthand Story](ShorthandPic.jpg)](https://carnegiemellon.shorthandstories.com/fighting-the-fentanyl-epidemic/index.html)
 
 # Changes made since Part II
-> Include few paragraphs that reflects on changes you made since the completion of Part II. 
+> Reflecting on the changes that I made from the completion of Part II to Part III.
 
-Text here!
+
+
+I made several changes to my shorthand visualization based on the grading feedback comments provided on my Part II submission. First of all, I changed my reference page to generate a more standard reference style for each citation. Second, I touched up my call to action by providing clearer labels and reducing the number of buttons to a smaller, more manageable number. This should help focus my audience's attention on the resources, petitions, and legislation that I really want them to care about. I also made edits to my flourish line plot to highlight Fentanyl in red and put the other drugs in greyscale in order to further highlight its rapid increase. Finally, I removed the pie chart graphic by making it into a text callout, along with adding several more key and notable stat callouts to the page. In totality, all of these added changes made my shorthand visualization better structured and more persuasive. 
 
 ## The audience
 > Talk about who you identified as the audience for your final data story.  Include any other information you've used that helped you narrow the focus (e.g. insights from your interviews, personas, etc.).  Note any specific adjustments you made to your final project to make it work for your audience.
 
 Text here!
 
-## Final design decisions
-> You can specifically break out your design decisions here, or include it under *Changes made since Part II* and delete this section. Talk about the design decisions you had to make along the way, and reflect on anything in particular that stands out to you that you learned working through the process.  Include any other information that helps round out your data story. 
-
-Text here!
 
 ## References
-> You should have already included detailed references on your Shorthand story - if so, you can probably skip this section.  Use this section to capture any additional special notes or information necessary.  If you do this, you probably want to include a link from Shorthand to this page. Make sure to double-check that you aren't using copyright material and that you have added / updated any citations or other content that you used to create your data story.  Make sure you have cited external sources correctly. 
+> All data and references are listed on the "Resources" page at the end of my shorthand visualization.
 
-Text here!
+
 
 # Final thoughts
 > You can summarize any final thoughts / reflections that don't fit well in the previous sections here.  How did it go?  What did you run out of time for, or wish you had a chance to revisit?  What were you most excited about?  Include any final reflections as you think they might help us understand your process.  If you already included such reflections elsewhere, you can delete this section. 

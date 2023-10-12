@@ -1,15 +1,15 @@
 # Final Project: Fighting the Fentanyl Epidemic 
 
-## Part 3: Final project and presentation
+# Part 3: Final project and presentation
 
 | [home page](https://github.com/angusmf1/portfolio/) | [visualizing debt](dataviz2.md) | [critique by design](CritiqueByDesign.md) | [final project I](final_project_angusferrell.md) | [final project II](final_project_angusferrell_part2.md) |
 
-# The final data story
+## The final data story
 > Visit the Shorthand link below:
 
 [![Shorthand Story](ShorthandPic.jpg)](https://carnegiemellon.shorthandstories.com/fighting-the-fentanyl-epidemic/index.html)
 
-# Changes made since Part II
+## Changes made since Part II
 > Reflecting on the changes that I made from the completion of Part II to Part III.
 
 
@@ -27,7 +27,7 @@ Text here!
 
 
 
-# Final thoughts
+## Final thoughts
 > You can summarize any final thoughts / reflections that don't fit well in the previous sections here.  How did it go?  What did you run out of time for, or wish you had a chance to revisit?  What were you most excited about?  Include any final reflections as you think they might help us understand your process.  If you already included such reflections elsewhere, you can delete this section. 
 
 Text here!

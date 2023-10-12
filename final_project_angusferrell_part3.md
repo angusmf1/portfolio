@@ -30,6 +30,6 @@ My target audience from Part II to Part III did not change. My interviews confir
 
 
 ## Final thoughts
-> You can summarize any final thoughts / reflections that don't fit well in the previous sections here.  How did it go?  What did you run out of time for, or wish you had a chance to revisit?  What were you most excited about?  Include any final reflections as you think they might help us understand your process.  If you already included such reflections elsewhere, you can delete this section. 
+> Overall summary and final thoughts
 
-Text here!
+In summary, I'm very pleased with my final shorthand visualization. The structure, content, and visualizations create a persuasive narrative about a topic that I care about. During my in-class presentation, I did not have time to discuss all of the relevant statistics, the harm reduction section, or any of the powerful expert quotes. However, anyone who reads my presentation in the future will be able to view it in its entirety. I'm excited about all of the resources, petitions, and legislation that I found for my call to action. Hopefully, this story can have a beneficial impact on someone's life in the future. 

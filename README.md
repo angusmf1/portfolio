@@ -57,7 +57,7 @@ Connect with me on LinkedIn: [[LinkedIn Profile](https://www.linkedin.com/in/ang
 
 ## Assignment 3&4: [Critique by Design](/CritiqueByDesign.md)
 
-[Critique by Design](https://angusmf1.github.io/portfolio/CritiqueByDesign.html) 
+[![Critique by Design](CritiqueByDesignPic.png)](https://angusmf1.github.io/portfolio/CritiqueByDesign.html) 
 
 
 ## Final project: Fighting the Fentanyl Epidemic

@@ -2,6 +2,8 @@
 
 ## Part 1.
 
+| [home page](https://github.com/angusmf1/portfolio/) | [visualizing debt](dataviz2.md) | [critique by design](CritiqueByDesign.md) | [final project II](final_project_angusferrell_part2.md) | [final project III](final_project_angusferrell_part3.md) |
+
 ### Outline
 
 My project will focus on the fentanyl epidemic in the United States. Fentanyl is a powerful drug that has many conventionally medical applications that are FDA approved, such as pain relief. However, over the past few years the illegal use of fentanyl has grown at a staggering rate, both from recreational usage as well as being "cut" into other illegal narcotics such as cocaine. This increase in usage has lead to an alarming increase in deaths caused by fentanyl overdose. The DEA Administer Anne Milgram stated that "Fentanyl is the single deadliest drug threat our nation has ever encountered.  Fentanyl is everywhere.  From large metropolitan areas to rural America, no community is safe from this poison.  We must take every opportunity to spread the word to prevent fentanyl-related overdose death and poisonings from claiming scores of American lives every day." (dea.gov) As this statement indicates, national awareness for the dangers of fentanyl are growing, but not fast enough. Furthermore, there has been increased illegal traffic of fentanyl into the United States over the past several years, potentially corresponding with the rise of over doses. 

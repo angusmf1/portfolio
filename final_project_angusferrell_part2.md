@@ -2,7 +2,7 @@
 
 ## Part 2: Final project wireframes / storyboards and user research
 
-| [home page](https://github.com/angusmf1/portfolio/) | [visualizing debt](dataviz2.md) | [critique by design](CritiqueByDesign.md) | [final project I](final_project_angusferrell.md) | 
+| [home page](https://github.com/angusmf1/portfolio/) | [visualizing debt](dataviz2.md) | [critique by design](CritiqueByDesign.md) | [final project I](final_project_angusferrell.md) | [final project III](final_project_angusferrell_part3.md) 
 
 ## Wireframes / storyboards
 > Visit the Shorthand link below:

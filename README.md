@@ -52,7 +52,7 @@ Connect with me on LinkedIn: [[LinkedIn Profile](https://www.linkedin.com/in/ang
 
 ## Assignment: [Visualizing Government Debt](/dataviz2.md)
 
-[Visualizing Government Debt repository](/dataviz2.md)
+[![Visualizing Government Debt repository](DataViz2.png)](https://angusmf1.github.io/portfolio/dataviz2.html))
 
 
 ## Assignment 3&4: [Critique by Design](/CritiqueByDesign.md)

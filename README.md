@@ -56,7 +56,7 @@ Connect with me on LinkedIn: [[LinkedIn Profile](https://www.linkedin.com/in/ang
 
 
 ## Assignment 3&4: [Critique by Design](/CritiqueByDesign.md)
-
+> Visit the website below:
 [![Critique by Design](CritiqueByDesignPic.png)](https://angusmf1.github.io/portfolio/CritiqueByDesign.html) 
 
 

@@ -56,7 +56,6 @@ Connect with me on LinkedIn: [[LinkedIn Profile](https://www.linkedin.com/in/ang
 
 
 ## Assignment 3&4: [Critique by Design](/CritiqueByDesign.md)
-For this assignment, make sure you set up and link to a new page.  This page is linking to a new Markdown document called `critique-by-design.md`.  
 
 https://angusmf1.github.io/portfolio/CritiqueByDesign.html 
 
